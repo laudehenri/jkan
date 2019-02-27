@@ -1,11 +1,11 @@
 title: Management & Data Science
 greeting: Bienvenue dans notre espace open-data
-description: Open-data proposées par la revue Management & Data Science, administrés par Advanced Research Partners
+description: Proposé par laRevue Management & Data Science [Advanced Research Partners à la technique]
 baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: Superhero
 
 # Authentication
 github_client_id: 96b27941ebff17c23bf0
