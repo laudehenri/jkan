@@ -1,6 +1,6 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: Management & Data Science
+greeting: Bienvenue dans notre espace open-data
+description: Open-data proposées par la revue Management & Data Science, administrés par Advanced Research Partners
 baseurl: /jkan
 logo: /img/jkan.png
 
@@ -12,7 +12,7 @@ github_client_id: 96b27941ebff17c23bf0
 gatekeeper_host: https://jkanmgtds.herokuapp.com/
 
 # Dataset schema
-schema: default
+schema: superhero
 
 # Nav bar
 navigation:
